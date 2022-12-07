@@ -1,2 +1,3 @@
 #!/bin/bash
-tr `echo {a..z} | tr -d ' '` `echo
+tr `echo {a..z} | tr -d ' '` 
+`echo
